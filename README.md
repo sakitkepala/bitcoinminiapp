@@ -15,7 +15,7 @@ Sumber data dari sini: [blockchain.info/api/exchange_rates_api](https://blockcha
 ## Setup development
 
 ```
-git clone https://github.com/sakitkepala/FrontEnd-Bitcoin-AndikaPriyotamaD.git bitcoin
+git clone https://github.com/sakitkepala/bitcoinminiapp.git bitcoin
 cd bitcoin
 
 // Install dependensi projek (Laravel 7.x, PHP 7.2)
